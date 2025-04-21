@@ -1,0 +1,2 @@
+/home/fabricio/Documentos/flutter-techtaste/android/app/.cxx/Debug/1u4h4y1g/x86/CMakeFiles/edit_cache.dir
+/home/fabricio/Documentos/flutter-techtaste/android/app/.cxx/Debug/1u4h4y1g/x86/CMakeFiles/rebuild_cache.dir

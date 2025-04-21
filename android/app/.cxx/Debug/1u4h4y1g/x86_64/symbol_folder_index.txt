@@ -1,0 +1,1 @@
+/home/fabricio/Documentos/flutter-techtaste/build/app/intermediates/cxx/Debug/1u4h4y1g/obj/x86_64
